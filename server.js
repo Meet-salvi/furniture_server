@@ -15,7 +15,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-    origin: 'http://localhost:5173', // Allow your vite frontend
+    origin: [process.env.CLIENT_URL || 'http://localhost:5173'], // Dynamic for deployment
     credentials: true, // Allow cookies to be sent
 }));
 app.use(express.json());
