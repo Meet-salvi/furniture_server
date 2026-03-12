@@ -13,6 +13,9 @@ connectDB();
 
 const app = express();
 
+// Trust proxy for secure cookies in production (e.g., Render)
+app.set('trust proxy', 1);
+
 // Middleware
 const allowedOrigins = [
     'http://localhost:5173',
