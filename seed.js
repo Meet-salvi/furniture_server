@@ -49,8 +49,8 @@ const sampleProducts = [
         material: 'Linen, Rubberwood',
         color: ['Beige', 'Cream'],
         images: [
-            'https://images.unsplash.com/photo-1549187771-b40fa144163f?auto=format&fit=crop&q=80&w=800',
-            'https://images.unsplash.com/photo-1561677843-39dee7a319ca?auto=format&fit=crop&q=80&w=800'
+            'https://images.unsplash.com/photo-1555521032-afe238c35092?auto=format&fit=crop&q=80&w=800',
+            'https://images.unsplash.com/photo-1484101403044-87beaf6a2116?auto=format&fit=crop&q=80&w=800'
         ],
         stock: 12, rating: 4.5, numReviews: 14, catIndex: 0
     },
@@ -67,7 +67,7 @@ const sampleProducts = [
     // Bed Category (Category 1)
     {
         name: 'Scandinavian Oak Bed',
-        description: 'Clean lines and natural oak texture.',
+        description: 'Clean lines and natural oak texture. Perfect for a cozy, minimalist bedroom.',
         price: 58000,
         material: 'Solid Oak',
         color: ['Natural Oak', 'Smoked Grey'],
@@ -76,7 +76,7 @@ const sampleProducts = [
     },
     {
         name: 'Tufted Wingback Bed',
-        description: 'Elegant headboard with wings.',
+        description: 'Elegant headboard with wings for deep comfort.',
         price: 48000,
         material: 'Velvet, Metal',
         color: ['Grey', 'Dusty Rose'],
@@ -94,7 +94,7 @@ const sampleProducts = [
     },
     {
         name: 'Vintage Iron Bed Frame',
-        description: 'Classic wrought iron design.',
+        description: 'Classic wrought iron design with durable finish.',
         price: 18000,
         material: 'Iron',
         color: ['Black', 'Bronze'],
@@ -103,7 +103,7 @@ const sampleProducts = [
     },
     {
         name: 'King Size Poster Bed',
-        description: 'Grand canopy bed frame.',
+        description: 'Grand canopy bed frame for a luxury feel.',
         price: 85000,
         material: 'Teak Wood',
         color: ['Dark Oak'],
@@ -141,7 +141,7 @@ const sampleProducts = [
     },
     {
         name: 'Adjustable Standing Desk',
-        description: 'Electric height adjustable desk.',
+        description: 'Electric height adjustable desk for home office.',
         price: 38000,
         material: 'Steel, MDF',
         color: ['Black', 'White'],
@@ -179,7 +179,7 @@ const sampleProducts = [
     },
     {
         name: 'Eames Style Lounge Chair',
-        description: 'Classic mid-century modern design.',
+        description: 'Classic mid-century modern design with superior comfort.',
         price: 45000,
         material: 'Plywood, Leather',
         color: ['Black Leather'],
@@ -188,7 +188,7 @@ const sampleProducts = [
     },
     {
         name: 'Bar Stool High Chair',
-        description: 'Sleek metal bar stools.',
+        description: 'Sleek metal bar stools for your kitchen or bar.',
         price: 4500,
         material: 'Steel',
         color: ['Black', 'Rust'],
@@ -197,7 +197,7 @@ const sampleProducts = [
     },
     {
         name: 'Outdoor Adirondack Chair',
-        description: 'Weather-resistant wooden chair for patio.',
+        description: 'Weather-resistant wooden chair for patio or lawn.',
         price: 9500,
         material: 'Cedar Wood',
         color: ['Natural', 'White'],
@@ -208,7 +208,7 @@ const sampleProducts = [
     // Decor Category (Category 4)
     {
         name: 'Minimalist Wall Clock',
-        description: 'Sleek wooden wall clock.',
+        description: 'Sleek wooden wall clock for any room.',
         price: 3500,
         material: 'Wood',
         color: ['Light Wood'],
@@ -217,7 +217,7 @@ const sampleProducts = [
     },
     {
         name: 'Ceramic Vase Set',
-        description: 'Set of 2 modern matte vases.',
+        description: 'Set of 2 modern matte vases for flowers or decor.',
         price: 2800,
         material: 'Ceramic',
         color: ['Matte White', 'Terracotta'],
@@ -226,7 +226,7 @@ const sampleProducts = [
     },
     {
         name: 'Abstract Canvas Art',
-        description: 'Large abstract painting for living room.',
+        description: 'Large abstract painting for a modern touch.',
         price: 8500,
         material: 'Canvas, Wood Frame',
         color: ['Multicolor'],
@@ -235,7 +235,7 @@ const sampleProducts = [
     },
     {
         name: 'Cotton Throw Pillows',
-        description: 'Pair of textured accent pillows.',
+        description: 'Pair of textured accent pillows for your sofa.',
         price: 1500,
         material: 'Cotton',
         color: ['Mustard', 'Navy'],
@@ -244,7 +244,7 @@ const sampleProducts = [
     },
     {
         name: 'Indoor Potted Plant',
-        description: 'Low-maintenance Fiddle Leaf Fig.',
+        description: 'Low-maintenance Fiddle Leaf Fig for green vibes.',
         price: 2200,
         material: 'Organic',
         color: ['Green'],
