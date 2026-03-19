@@ -71,7 +71,7 @@ const sampleProducts = [
         price: 58000,
         material: 'Solid Oak',
         color: ['Natural Oak', 'Smoked Grey'],
-        images: ['https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1505693419148-4034b9fd3fa2?auto=format&fit=crop&q=80&w=800'],
         stock: 5, rating: 4.9, numReviews: 12, catIndex: 1
     },
     {
@@ -98,7 +98,7 @@ const sampleProducts = [
         price: 18000,
         material: 'Iron',
         color: ['Black', 'Bronze'],
-        images: ['https://images.unsplash.com/photo-1505692795793-20f545a60ec2?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1531835597964-6a9ce863262a?auto=format&fit=crop&q=80&w=800'],
         stock: 15, rating: 4.4, numReviews: 9, catIndex: 1
     },
     {
@@ -107,7 +107,7 @@ const sampleProducts = [
         price: 85000,
         material: 'Teak Wood',
         color: ['Dark Oak'],
-        images: ['https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1505691938895-1758d7eaa511?auto=format&fit=crop&q=80&w=800'],
         stock: 3, rating: 5.0, numReviews: 5, catIndex: 1
     },
 
@@ -118,7 +118,7 @@ const sampleProducts = [
         price: 32000,
         material: 'Carrara Marble, Steel',
         color: ['White Marble', 'Black Marble'],
-        images: ['https://images.unsplash.com/photo-1604578762246-41134e37f9cc?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1577146333195-660490651777?auto=format&fit=crop&q=80&w=800'],
         stock: 8, rating: 4.7, numReviews: 15, catIndex: 2
     },
     {
@@ -127,7 +127,7 @@ const sampleProducts = [
         price: 25000,
         material: 'Pine Wood',
         color: ['Walnut'],
-        images: ['https://images.unsplash.com/photo-1511210112837-580d6205844e?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800'],
         stock: 6, rating: 4.5, numReviews: 11, catIndex: 2
     },
     {
@@ -136,7 +136,7 @@ const sampleProducts = [
         price: 12000,
         material: 'Tempered Glass, Ash Wood',
         color: ['Clear'],
-        images: ['https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1519947486511-46149fa0a254?auto=format&fit=crop&q=80&w=800'],
         stock: 20, rating: 4.6, numReviews: 28, catIndex: 2
     },
     {
@@ -192,7 +192,7 @@ const sampleProducts = [
         price: 4500,
         material: 'Steel',
         color: ['Black', 'Rust'],
-        images: ['https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&q=80&w=800'],
         stock: 35, rating: 4.3, numReviews: 22, catIndex: 3
     },
     {
@@ -201,7 +201,7 @@ const sampleProducts = [
         price: 9500,
         material: 'Cedar Wood',
         color: ['Natural', 'White'],
-        images: ['https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&q=80&w=800'],
         stock: 12, rating: 4.6, numReviews: 19, catIndex: 3
     },
 
@@ -212,7 +212,7 @@ const sampleProducts = [
         price: 3500,
         material: 'Wood',
         color: ['Light Wood'],
-        images: ['https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1584112995349-f0e69882200a?auto=format&fit=crop&q=80&w=800'],
         stock: 50, rating: 4.7, numReviews: 31, catIndex: 4
     },
     {
@@ -221,7 +221,7 @@ const sampleProducts = [
         price: 2800,
         material: 'Ceramic',
         color: ['Matte White', 'Terracotta'],
-        images: ['https://images.unsplash.com/photo-1581783898377-1c85bf937427?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1513519245088-0e12902e35ca?auto=format&fit=crop&q=80&w=800'],
         stock: 45, rating: 4.5, numReviews: 15, catIndex: 4
     },
     {
@@ -230,7 +230,7 @@ const sampleProducts = [
         price: 8500,
         material: 'Canvas, Wood Frame',
         color: ['Multicolor'],
-        images: ['https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800'],
         stock: 10, rating: 4.8, numReviews: 8, catIndex: 4
     },
     {
@@ -239,7 +239,7 @@ const sampleProducts = [
         price: 1500,
         material: 'Cotton',
         color: ['Mustard', 'Navy'],
-        images: ['https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1579656592043-a20e25a4aa4b?auto=format&fit=crop&q=80&w=800'],
         stock: 100, rating: 4.4, numReviews: 42, catIndex: 4
     },
     {
