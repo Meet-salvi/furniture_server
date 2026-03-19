@@ -49,8 +49,8 @@ const sampleProducts = [
         material: 'Linen, Rubberwood',
         color: ['Beige', 'Cream'],
         images: [
-            'https://images.unsplash.com/photo-1555521032-afe238c35092?auto=format&fit=crop&q=80&w=800',
-            'https://images.unsplash.com/photo-1484101403044-87beaf6a2116?auto=format&fit=crop&q=80&w=800'
+            'https://images.unsplash.com/photo-1550581190-9c1c48d21d6c?auto=format&fit=crop&q=80&w=800',
+            'https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&q=80&w=800'
         ],
         stock: 12, rating: 4.5, numReviews: 14, catIndex: 0
     },
@@ -71,7 +71,7 @@ const sampleProducts = [
         price: 58000,
         material: 'Solid Oak',
         color: ['Natural Oak', 'Smoked Grey'],
-        images: ['https://images.unsplash.com/photo-1505693419148-4034b9fd3fa2?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&q=80&w=800'],
         stock: 5, rating: 4.9, numReviews: 12, catIndex: 1
     },
     {
@@ -98,7 +98,7 @@ const sampleProducts = [
         price: 18000,
         material: 'Iron',
         color: ['Black', 'Bronze'],
-        images: ['https://images.unsplash.com/photo-1531835597964-6a9ce863262a?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1505692795793-20f545a60ec2?auto=format&fit=crop&q=80&w=800'],
         stock: 15, rating: 4.4, numReviews: 9, catIndex: 1
     },
     {
@@ -107,7 +107,7 @@ const sampleProducts = [
         price: 85000,
         material: 'Teak Wood',
         color: ['Dark Oak'],
-        images: ['https://images.unsplash.com/photo-1505691938895-1758d7eaa511?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800'],
         stock: 3, rating: 5.0, numReviews: 5, catIndex: 1
     },
 
@@ -118,7 +118,7 @@ const sampleProducts = [
         price: 32000,
         material: 'Carrara Marble, Steel',
         color: ['White Marble', 'Black Marble'],
-        images: ['https://images.unsplash.com/photo-1577146333195-660490651777?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1604578762246-41134e37f9cc?auto=format&fit=crop&q=80&w=800'],
         stock: 8, rating: 4.7, numReviews: 15, catIndex: 2
     },
     {
@@ -127,7 +127,7 @@ const sampleProducts = [
         price: 25000,
         material: 'Pine Wood',
         color: ['Walnut'],
-        images: ['https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1511210112837-580d6205844e?auto=format&fit=crop&q=80&w=800'],
         stock: 6, rating: 4.5, numReviews: 11, catIndex: 2
     },
     {
@@ -136,7 +136,7 @@ const sampleProducts = [
         price: 12000,
         material: 'Tempered Glass, Ash Wood',
         color: ['Clear'],
-        images: ['https://images.unsplash.com/photo-1574347716135-269af5333f07?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800'],
         stock: 20, rating: 4.6, numReviews: 28, catIndex: 2
     },
     {
@@ -192,7 +192,7 @@ const sampleProducts = [
         price: 4500,
         material: 'Steel',
         color: ['Black', 'Rust'],
-        images: ['https://images.unsplash.com/photo-1592078615290-033ee584e267?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800'],
         stock: 35, rating: 4.3, numReviews: 22, catIndex: 3
     },
     {
@@ -201,7 +201,7 @@ const sampleProducts = [
         price: 9500,
         material: 'Cedar Wood',
         color: ['Natural', 'White'],
-        images: ['https://images.unsplash.com/photo-1598948332417-d1a9d99c7b7b?auto=format&fit=crop&q=80&w=800'],
+        images: ['https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?auto=format&fit=crop&q=80&w=800'],
         stock: 12, rating: 4.6, numReviews: 19, catIndex: 3
     },
 
